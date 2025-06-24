@@ -35,7 +35,6 @@ To evaluate each candidate location based on three key mission-aligned criteria:
 
 ### 📍 Tools Used:
 - **Python** (data cleaning and spatial analysis)
-- **SQL** (data extraction and transformation)
 - **Tableau** (interactive dashboard for stakeholder use)
 - **Excel/PowerPoint** (summary analysis and presentation)
 
